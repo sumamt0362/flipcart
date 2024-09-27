@@ -1,0 +1,24 @@
+#cart-content{
+    height:100hv ;
+    width: 100%;
+    border: 2px solid red;
+}
+img{
+    height:100px ;
+}
+.cart-card{
+    height: 300px;
+    width:inherit;
+    border: 1px solid blue;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.remove-btn{
+    height: 35px;
+    width:100px;
+    border: 1px solid blue;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
